@@ -45,6 +45,7 @@ body {
 
 header {
   background-image: url('./images/bg-hero-desktop.svg');
+  background-color: var(--Neutral-Very-Pale-Cyan);
 }
 
 .container {
