@@ -1,4 +1,5 @@
 # Frontend Mentor - Huddle landing page with alternating feature blocks
+[Preview site](https://mrinmayd3.github.io/Huddle-landing-page/)
 
 ![Design preview for the Huddle landing page with alternating feature blocks coding challenge](./design/desktop-preview.jpg)
 
